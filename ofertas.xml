@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Ofertas de la Semana</title>
+        <link>https://github.com/Davidcabrejas/Mi-primer-sitio-web/tree/main</link>
+        <description>Últimas ofertas de jugadores destacados.</description>
+        <lastBuildDate>Thu, 13 May 2024 00:00:00 GMT</lastBuildDate>
+        <item>
+            <title>Conner Frankamp</title>
+            <link>https://github.com/Davidcabrejas/Mi-primer-sitio-web/blob/main/ofertas.html</link>
+            <description>Proximo fichaje del UCAM Murcia CB SAD.</description>
+            <pubDate>Sun, 05 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Willy Hernangómez</title>
+            <link>https://github.com/Davidcabrejas/Mi-primer-sitio-web/blob/main/ofertas.html</link>
+            <description>El Real Madrid C.F. negocia para fichar a Willy.</description>
+            <pubDate>Sun, 05 May 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
