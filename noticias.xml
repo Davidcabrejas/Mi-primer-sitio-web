@@ -1,1 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Últimas Noticias</title>
+        <link>https://github.com/Davidcabrejas/Mi-primer-sitio-web/tree/main</link>
+        <description>Las últimas noticias destacadas.</description>
+        <lastBuildDate>Thu, 13 May 2024 00:00:00 GMT</lastBuildDate>
+        <item>
+            <title>Al fin una buena noticia para el Baskonia</title>
+            <link>https://github.com/Davidcabrejas/Mi-primer-sitio-web/blob/main/noticias.html</link>
+            <description>Markus Howard renueva hasta 2028.</description>
+            <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Victoria agridulce</title>
+            <link>https://github.com/Davidcabrejas/Mi-primer-sitio-web/blob/main/noticias.html</link>
+            <description>Victoria del equipo de Chus Mateo que no vale para coger la primera plaza. La victoria de Unicaja les deja como segundos de la liga regular.</description>
+            <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
 
