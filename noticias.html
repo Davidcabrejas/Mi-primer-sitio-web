@@ -5,20 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="alternate" type="application/rss+xml" title="Noticias" href="https://github.com/Davidcabrejas/Mi-primer-sitio-web/blob/main/noticias.xml">
     <title>Últimas Noticias</title>
-    <link rel="stylesheet" href="styles.css">
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Roboto', sans-serif;
             margin: 0;
             padding: 0;
             background-color: #f2f2f2;
         }
+
         header {
-            background-color: #333;
+            background-color: #212529;
             color: white;
             text-align: center;
             padding: 20px;
         }
+
+        header h1 {
+            margin: 0;
+            font-weight: 900;
+            font-size: 36px;
+        }
+
         section.noticias {
             display: flex;
             justify-content: center;
@@ -26,6 +33,7 @@
             flex-wrap: wrap;
             padding: 20px;
         }
+
         article {
             background-color: #fff;
             border-radius: 8px;
@@ -33,19 +41,19 @@
             margin: 10px;
             padding: 20px;
             max-width: 300px;
-            text-align: center;
         }
+
         article h2 {
             color: #333;
+            text-align: center;
         }
+
         article p {
             color: #666;
             margin-bottom: 10px;
+            text-align: justify;
         }
-        article img {
-            border-radius: 50%;
-            margin-top: 10px;
-        }
+
         footer {
             background-color: #333;
             color: white;
@@ -55,6 +63,7 @@
             bottom: 0;
             width: 100%;
         }
+
         footer a {
             color: #fff; 
             text-decoration: none;
@@ -62,6 +71,7 @@
             padding: 5px 10px;
             border-radius: 5px;
         }
+
         footer a:hover {
             background-color: #555; 
         }
@@ -73,16 +83,16 @@
     </header>
     <section class="noticias">
         <article>
-            <h2>Real Madrid Gana la Liga</h2>
-            <p>El Real Madrid se corona campeón de La Liga.</p>
-            <p>Fecha: 2024-05-02</p>
-            <img src="images/madrid.png" alt="Madrid" width="150" height="150">
+            <h2>Al fin una buena noticia para el Baskonia</h2>
+            <p>Markus Howard renueva hasta 2028.</p>
+            <p>Fecha: 13/05/2024</p>
+            <img src="images/Markus Howard.png" alt="Markus Howard" width="250" height="150">
         </article>
         <article>
-            <h2>Barcelona Contrata Nuevo Entrenador</h2>
-            <p>El Barcelona anuncia la contratación de un nuevo entrenador.</p>
-            <p>Fecha: 2024-05-01</p>
-            <img src="images/barca.png" alt="Barcelona" width="150" height="150">
+            <h2>Victoria agridulce</h2>
+            <p>Victoria del equipo de Chus Mateo que no vale para coger la primera plaza. La victoria de Unicaja les deja como segundos de la liga regular.</p>
+            <p>Fecha: 12/05/2024</p>
+            <img src="images/Unicaja.png" alt="Unicaja" width="250" height="120">
         </article>
     </section>
     <footer>
